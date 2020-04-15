@@ -14,7 +14,7 @@ public class StringMethods {
 		//    HINT: .length()
 
 		
-		// 4. Using a for loop, print one char at time to the console.
+		// 4. Using a for loop, print one char at q time to the console.
 		//    HINT: use .length() to determine how many loops
 
 		
