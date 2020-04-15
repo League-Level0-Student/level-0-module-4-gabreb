@@ -23,7 +23,7 @@ public class SleepyHead {
         	JOptionPane.showMessageDialog(null, "Sleep In");
         }
         
-        else if (x ==0) {
+        else if (x == 0) {
         	JOptionPane.showMessageDialog(null, "Get up Lazy bones!");
         }
         else {
